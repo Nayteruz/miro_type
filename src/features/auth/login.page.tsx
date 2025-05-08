@@ -1,5 +1,5 @@
 function LoginPage() {
-	return <div>Login page</div>;
+  return <div>Login page</div>;
 }
 
 export const Component = LoginPage;
